@@ -1,40 +1,37 @@
-# Article 1 — Information Density vs Interpretive Capacity
-
-## Book 1 — Structural Uncertainty & Interpretation in Complex Systems
-
----
-
-Modern analytical environments are defined by a widening asymmetry between information density and interpretive capacity.
-
-As systems scale, the rate of data generation consistently exceeds the rate at which meaning can be stabilised. The result is not simply overload, but structural misalignment between detection and interpretation.
-
-Information accumulation continues to expand across computational, institutional, and networked systems. However, interpretive frameworks do not scale at the same rate. They remain constrained by bounded context windows, limited synthesis bandwidth, and dependency on prior structural assumptions.
-
-This creates a persistent condition in which systems can detect more than they can meaningfully integrate.
-
-Interpretation becomes the limiting factor.
-
-At higher densities, signals do not disappear—they accumulate without consolidation. Meaning does not fail abruptly; it fragments across competing partial structures. Coherence is replaced by layered approximation.
-
-In this state, analytical systems begin to prioritise resolution of inputs rather than integration of context. Detection remains active, but synthesis becomes deferred, distributed, or incomplete.
-
-The core imbalance is therefore not informational scarcity, but interpretive saturation.
-
-Where detection expands without corresponding interpretive scaling, systems begin to misclassify complexity as signal abundance rather than structural limitation.
-
-This establishes a baseline condition for all subsequent analysis in this series:
-
-Interpretive capacity defines the boundary of system clarity.
-
-Beyond this boundary, increases in information density reduce rather than enhance coherent understanding.
+BOOK 1 — Structural Uncertainty & Interpretation in Complex Systems  
+Article 1 — Information Density vs Interpretive Capacity  
 
 ---
 
-## Transition to Article 2
+Information density scales faster than interpretive capacity in complex systems.
 
-The next structural distinction emerges when detection is isolated from interpretation as separate system functions.
+Data production increases across computational, institutional, and networked environments without proportional increases in synthesis capability.
 
-This leads to:
+Detection expands. Interpretation does not scale equivalently.
 
-> Detection vs Interpretation in Complex Systems
-```
+Systems register more signals than they can stabilise into meaning.
+
+Interpretation becomes the limiting constraint rather than information availability.
+
+At threshold density, signals accumulate without consolidation into coherent structure.
+
+Meaning fragments across partial and competing interpretations rather than resolving into unified models.
+
+Coherence degrades under sustained input volume.
+
+Detection remains active while synthesis becomes deferred, distributed, or incomplete.
+
+Analytical systems shift from integration to partial resolution under load.
+
+This produces structural misalignment between observed complexity and interpreted structure.
+
+Information is no longer scarce. Interpretation is saturated.
+
+The boundary condition is defined by interpretive capacity, not data availability.
+
+Beyond this boundary, additional information reduces clarity rather than increasing it.
+
+---
+
+NEXT NODE  
+Detection vs Interpretation in Complex Systems
