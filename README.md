@@ -1,16 +1,30 @@
-## Hi there 👋
+# Anomaly Press
 
-<!--
-**AnomalyPress/AnomalyPress** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Investigating complexity, intelligence, and the frontiers of emerging systems.**
 
-Here are some ideas to get you started:
+Anomaly Press is an independent editorial publication dedicated to disciplined analysis of complexity, uncertainty, intelligence, and emerging systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Editorial Mission
+
+The mission of Anomaly Press is to build a permanent catalogue of rigorous analytical publications examining complexity, uncertainty, intelligence, and emerging systems through evidence-aware, methodical, and intellectually honest inquiry.
+
+> Interpretation should never outrun evidence, and complexity should never be reduced simply for the comfort of certainty.
+
+## Areas of Publication
+
+- Artificial intelligence and intelligent systems
+- Intelligence analysis
+- Complex systems
+- Emerging technologies
+- UAP-related discourse
+- Scientific frontiers
+
+## Publications
+
+- Investigative articles
+- Analytical essays
+- Research papers
+- White papers
+- Books
+- Interviews
+- Curated collections
